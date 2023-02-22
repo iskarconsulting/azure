@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "FUNCTIONS_EXTENSION_VERSION": "~3",
+        "CosmosDBAccountEndpoint": "https://<<YOUR COSMOSDB ENDPOINT>>.documents.azure.com:443/",
+        "CosmosDBAccountKey": "<<YOUR COSMOSDB PRIMARY ACCOUNT KEY>>",
+        "CosmosDBDatabaseId": "<<YOUR COSMOSDB DATABASE ID>>",
+        "CosmosDBCollectionId": "<<YOUR COSMOSDB COLLECTION ID>>"
+        }
+}
